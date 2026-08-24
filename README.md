@@ -49,7 +49,7 @@ cd <repository-folder>
 Run the calculator:
 
 ```bash
-python calculator.py
+python calc.py
 ```
 
 ## 💻 Example
