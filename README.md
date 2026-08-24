@@ -77,24 +77,3 @@ Tell me what operation to use: **
 This is one of my Python practice projects while learning programming. The main goal of the project is to get more comfortable with functions, loops, conditions, and handling user input.
 
 I plan to continue improving my Python skills and building more projects as I learn.
-
-## 📚 Current Level
-
-**Beginner**
-
-This project is intentionally simple and focuses on practicing the fundamentals rather than creating a complex calculator application.
-
-## 🔮 Future Improvements
-
-Possible improvements for future versions:
-
-* Add a command to exit the calculator
-* Support decimal numbers
-* Add more mathematical operations
-* Improve input validation
-* Create a graphical user interface
-* Make the calculator more interactive
-
----
-
-**Made with Python 🐍**
